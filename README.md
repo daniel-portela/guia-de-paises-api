@@ -1,6 +1,6 @@
 ## Aplicativo <a href="https://appguiadepaises.netlify.app/">Guia de Países</a>
 
-![alt text](preview.png)
+![preview](https://github.com/daniel-portela/guia-de-paises-api/assets/110783805/c964eb99-2e89-42be-a6d3-0a08a0c5f00f)
 
 Este é um aplicativo web simples que permite buscar informações detalhadas sobre países, como capital, continente, população, moeda e línguas faladas. Os dados são obtidos a partir da API [REST Countries](https://restcountries.com/).
 
